@@ -1,5 +1,6 @@
 <h1 align="center">Hey 👋, I'm Vernon Alva</h1>
-<h3 align="center">A passionate AI developer from India</h3>
+<big>
+  <h3 align="center">A passionate AI developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vernon-codes&label=Profile%20views&color=0e75b6&style=flat" alt="vernon-codes" /> </p>
 
@@ -29,3 +30,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vernon-codes&show_icons=true&locale=en&layout=compact" alt="vernon-codes" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vernon-codes&show_icons=true&locale=en" alt="vernon-codes" /></p>
+</big>
