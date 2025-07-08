@@ -11,13 +11,16 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: Generate the snake SVG
+      - name: 📥 Checkout the repository
+        uses: actions/checkout@v3
+
+      - name: 🐍 Generate the snake SVG
         uses: Platane/snk@v3
         with:
           github_user_name: vernon-codes
           outputs: dist/github-snake.svg
 
-      - name: Push the SVG to the output branch
+      - name: 🚀 Push the SVG to the output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
