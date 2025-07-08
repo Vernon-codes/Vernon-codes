@@ -33,11 +33,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vernon-codes&show_icons=true&locale=en&layout=compact" alt="vernon-codes" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vernon-codes&show_icons=true&locale=en" alt="vernon-codes" /></p>
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Vernon-codes/Vernon-codes/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
 </big>
