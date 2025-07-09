@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **stock-price-predictor**
 
-- 🌱 I’m currently learning **Scikit-learn, TensorFlow**
+- 🌱 I’m currently learning **Data preprocessing,EDA**
 
 - 👯 I’m looking to collaborate on **AI development**
 
