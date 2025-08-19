@@ -4,11 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vernon-codes&label=Profile%20views&color=0e75b6&style=flat" alt="vernon-codes" /> </p>
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vernon-codes&theme=gruvbox&no-frame=true&row=1&column=7&margin-w=10&margin-h=15" alt="GitHub Trophies" />
-</p>
-
 - 🔭 I’m currently working on **stock-price-predictor**
 
 - 🌱 I’m currently learning **Data preprocessing,EDA**
