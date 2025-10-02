@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **stock-price-predictor**
 
-- 🌱 I’m currently learning **Data preprocessing,EDA**
+- 🌱 I’m currently learning **EDA, Machine Learning**
 
 - 👯 I’m looking to collaborate on **AI development**
 
